@@ -232,6 +232,11 @@ a.logo:hover {
   left: 100%;
 }
 
+.item-content-title{
+  font-size: 5rem;
+  line-height: 5rem;
+  font-weight: 900;
+}
 
 /* RESPONSIVE */
 @media only screen and (max-width: 850px){
